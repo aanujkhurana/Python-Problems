@@ -1,5 +1,5 @@
 # Python Excersice
-Python Programming Leet code solutions
+Python Programming Excersice solutions
 
-`personal repo for practice`
+`personal repo for leetcode`
 
