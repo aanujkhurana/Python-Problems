@@ -1,0 +1,9 @@
+_MACOSX
+_pycache
+venv
+/_MACOSX
+/_pycache
+/venv
+/_MACOSX/*
+/_pycache/*
+/venv/*
