@@ -1,2 +1,5 @@
-# Python-Tasks
-Python Programming Leet code
+# Python Excersice
+Python Programming Leet code solutions
+
+`personal repo for practice`
+
