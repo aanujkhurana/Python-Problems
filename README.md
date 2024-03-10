@@ -1,6 +1,6 @@
 #  🐍 Python Exercise Repository
 
-Welcome to the Python Exercise Repository! This repository contains a collection of Python exercises to help you practice and improve your python programming skills.
+Welcome to the Python Exercise Repository! This repository contains a collection of Python exercises to practice and improve programming skills.
 
 ## Getting Started
 
