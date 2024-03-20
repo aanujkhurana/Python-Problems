@@ -8,5 +8,5 @@ Welcome to the Python Exercise Repository! This repository contains a collection
    ```bash
    git clone https://github.com/aanujkhurana/Python-Tasks.git
 
-2. Start from *task1.py* in Tasks folder (total 120 Tasks from easy to hard)
+2. Start from task1.py in Tasks folder (total 120 Tasks from easy to hard)
 
