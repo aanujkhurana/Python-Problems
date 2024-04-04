@@ -7,3 +7,19 @@ from PyTest import *
 ##   "java" -> "va"                                                          //
 ##   "away" -> "aay"                                                         //
 ##/////////////////////////////////////////////////////////////////////////////
+
+def remove(string):
+    if len(string) < 2:
+        return string
+    elif string[0] == 'a' and string[1] == 'b':
+        return string
+    elif string[0] == 'a':
+        return string[0] + string[2:]
+    elif string[1] == 'b':
+        return string[1:]
+    else:
+        return string[2:]
+
+string = "HAhele"
+
+print(remove(string))
