@@ -6,3 +6,9 @@ from PyTest import *
 ##    3, 3  -> True                                                          //
 ##    2, 3  -> False                                                         //
 ##/////////////////////////////////////////////////////////////////////////////
+
+
+def check(lst):
+    if lst.count(2) == 2 or lst.count(3) == 2:
+        return True
+    return False

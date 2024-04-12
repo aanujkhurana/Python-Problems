@@ -6,3 +6,10 @@ from PyTest import *
 ##    3, 1, 2  -> True                                   //
 ##    3, 1, 4, 5, 2  -> True                             //
 ##/////////////////////////////////////////////////////////
+
+
+
+def check(lst):
+    if 1 in lst and 2 in lst[lst.index(1):]:
+        return True
+    return False
