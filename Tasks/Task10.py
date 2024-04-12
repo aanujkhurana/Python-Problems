@@ -7,3 +7,14 @@ from PyTest import *
 ##    3, 4    1, 2  ->  3, 4                                                 //
 ##    1, 1    1, 2  ->  1, 2                                                 //
 ##/////////////////////////////////////////////////////////////////////////////
+
+
+def largeSum(a,b):
+    if sum(a) >= sum(b):
+        return a
+    else:
+        return b
+    
+a = [1, 2]
+b = [3, 4]
+print(largeSum(a,b))
